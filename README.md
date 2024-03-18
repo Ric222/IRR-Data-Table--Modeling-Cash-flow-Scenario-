@@ -1,4 +1,4 @@
-# Using IRR with Data Tables--Modeling Cash flow Scenarios in Excel
+# Using IRR with Data Tables--Modeling Cash flow Scenarios in Excel   🤑
 
 ### Objective
 
