@@ -29,5 +29,5 @@ We can calculate **IRR values for all possible scenarios using Data Tables** in 
 
 ### Result
 
-Looking at the table, we can conclude that if Shelly can negotiate the purchase price down to 15% and sell it off with a terminal value where the value goes up by 10% from intial termial value, the she will get **10.48% which is the best return**.
+Looking at the table, we can conclude that if Shelly can negotiate the purchase price down to 15% and sell it off with a terminal value marked up by 10% from intial termial value, she will get the **best return as 10.48%**.
 
